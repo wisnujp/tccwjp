@@ -1,7 +1,7 @@
 <?php
-$host = "localhost" ;
+$host = "192.168.100.52:7603" ;
 $user = "root" ;
-$pass = "" ;
+$pass = "wisnu" ;
 $db	  = "tcc" ;
 
 $konek = mysqli_connect($host,$user,$pass,$db) ;
